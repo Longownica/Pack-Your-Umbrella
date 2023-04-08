@@ -1,0 +1,29 @@
+body {
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background: rgb(10,62,128);
+    background: linear-gradient(17deg, rgba(10,62,128,1) 35%, rgba(82,113,137,1) 65%, rgba(245,250,14,1) 100%);
+  }
+
+h1 {
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+
+h3 {
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+  opacity: 0.7;
+}
